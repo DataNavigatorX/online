@@ -22,12 +22,11 @@ This is a modern and stylish Nike shoe store landing page built using React, Jav
 
 1️⃣ Clone the Repository  
 
-git clone https://github.com/your-username/nike-store.git  
+git clone https://github.com/DataNavigatorX/online.git
 cd nike-store  
 
 2️⃣ Install Dependencies
 npm install  
-
 
 3️⃣ Start the Development Server
 npm run dev  
@@ -39,15 +38,15 @@ Copy
 Edit
 nike-store/  
 │── src/  
-│   ├── components/        # Reusable UI components  
-│   ├── assets/            # Images & static files  
-│   ├── App.js             # Main React component  
-│   ├── index.js           # Entry point  
-│   ├── styles.css         # Global styles  
-│── public/                # Static public files  
-│── package.json           # Project metadata & dependencies  
-│── vite.config.js         # Vite configuration  
-│── README.md              # Documentation  
+│   ├── components/        
+│   ├── assets/            
+│   ├── App.js             
+│   ├── index.js           
+│   ├── styles.css         
+│── public/                
+│── package.json           
+│── vite.config.js          
+│── README.md              
 
 
 🌟 Future Improvements
