@@ -4,25 +4,26 @@ This is a modern and stylish Nike shoe store landing page built using React, Jav
 
 📌 Features
 
-- 🚀 Responsive Design – Adapts to different screen sizes.  
-- 🖼️ Hero Section – High-quality Nike shoe image.  
-- 🔗 Navigation Bar – Links to Menu, Location, About, and Contact.  
-- 🛒 Call-to-Action Buttons – "Shop Now" and "Category" buttons.  
-- 🛍️ Available On – Amazon and Flipkart store links.  
-- 🔐 Login Button – Red login button for user authentication.  
+🚀 Responsive Design – Adapts to different screen sizes.  
+🖼️ Hero Section – High-quality Nike shoe image.  
+🔗 Navigation Bar – Links to Menu, Location, About, and Contact.  
+🛒 Call-to-Action Buttons – "Shop Now" and "Category" buttons.  
+🛍️ Available On – Amazon and Flipkart store links.  
+🔐 Login Button – Red login button for user authentication.  
 
 🛠 Technologies Used
 
-- React.js (Frontend framework)  
-- JavaScript (Functionality)  
-- HTML & CSS (Structure and styling)  
-- Images (For product visuals)  
+React.js (Frontend framework)  
+JavaScript (Functionality)  
+HTML & CSS (Structure and styling)  
+Images (For product visuals)  
 
 🚀 Getting Started
 
 1️⃣ Clone the Repository  
 
 git clone https://github.com/DataNavigatorX/online.git
+
 cd nike-store  
 
 2️⃣ Install Dependencies
@@ -50,9 +51,13 @@ nike-store/
 
 
 🌟 Future Improvements
-🔍 Add a search bar for product filtering.
-🛒 Implement shopping cart functionality.
-🌍 Improve localization for different regions.
+
+🔍 Add a search bar for product filtering
+
+🛒 Implement shopping cart functionality
+
+🌍 Improve localization for different regions
+
 
 🤝 Contributing
 Feel free to fork this repository, open issues, and submit pull requests.
